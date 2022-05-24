@@ -39,14 +39,19 @@ I am studying Computer Engineering at the FIB of the Universitat Politècnica de
 
 ## Repositoris Assignatures Enginyeria Informàtica FIB
 
-#### Q1
+#### Q1 - Quadrimestre 1
+- [FIB-PRO1](https://github.com/Vikoey04/FIB-PRO1) Programació 1
 
-#### Q2
+#### Q2 - Quadrimestre 2
+- [FIB-PRO2](https://github.com/Vikoey04/FIB-PRO2) Programació 2
 
-#### Q3
+#### Q3 - Quadrimestre 3
+- [FIB-BD](https://github.com/Vikoey04/FIB-BD) Bases de Dades
+- [FIB-EDA](https://github.com/Vikoey04/FIB-EDA) Estructures de Dades i Algorismes
+- [FIB-PE](https://github.com/Vikoey04/FIB-PE) Probabilitat i Estadística
 
-#### Q4
-- [FIB-AC](https://github.com/Vikoey04/FIB-AC)
-- [FIB-IDI](https://github.com/Vikoey04/FIB-IDI)
-- [FIB-IES](https://github.com/Vikoey04/FIB-IES)
-- [FIB-XC](github.com/Vikoey04/FIB-XC)
+#### Q4 - Quadrimestre 4
+- [FIB-AC](https://github.com/Vikoey04/FIB-AC) Arquitectura de Computadors
+- [FIB-IDI](https://github.com/Vikoey04/FIB-IDI) Interacció i Disseny d'Interfícies
+- [FIB-IES](https://github.com/Vikoey04/FIB-IES) Introducció a la Enginyeria del Software
+- [FIB-XC](https://github.com/Vikoey04/FIB-XC) Xarxes de Computadors
