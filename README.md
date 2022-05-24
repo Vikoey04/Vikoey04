@@ -1,9 +1,9 @@
 ```
-       _    ___ __                    ____  __ __
-      | |  / (_) /______  ___  __  __/ __ \/ // /
-      | | / / / //_/ __ \/ _ \/ / / / / / / // /_
-      | |/ / / ,< / /_/ /  __/ /_/ / /_/ /__  __/
-      |___/_/_/|_|\____/\___/\__, /\____/  /_/   
+     _    ___ __                    ____  __ __
+    | |  / (_) /______  ___  __  __/ __ \/ // /
+    | | / / / //_/ __ \/ _ \/ / / / / / / // /_
+    | |/ / / ,< / /_/ /  __/ /_/ / /_/ /__  __/ 
+    |___/_/_/|_|\____/\___/\__, /\____/  /_/   
                             /____/                                                     
 ```
 
@@ -35,6 +35,18 @@ I am studying Computer Engineering at the FIB of the Universitat Politècnica de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="65px" ></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="65px" ></img>
           
-          
-  
 </div>
+
+## Repositoris Assignatures Enginyeria Informàtica FIB
+
+#### Q1
+
+#### Q2
+
+#### Q3
+
+#### Q4
+- [FIB-AC](https://github.com/Vikoey04/FIB-AC)
+- [FIB-IDI](https://github.com/Vikoey04/FIB-IDI)
+- [FIB-IES](https://github.com/Vikoey04/FIB-IES)
+- [FIB-XC](github.com/Vikoey04/FIB-XC)
