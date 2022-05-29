@@ -7,7 +7,7 @@
                             /____/                                                     
 ```
 
-# Hi there, I'm Jordi - aka VIKO/VIKOEY 👋
+# Hi there, I'm Jordi Soley - aka VIKO/VIKOEY 👋
 
 I am studying Computer Engineering at the FIB of the Universitat Politècnica de Catalunya in Barcelona 
 
