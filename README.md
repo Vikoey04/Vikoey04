@@ -63,16 +63,16 @@ I'm a 3rd year student of Bachelor Degree in Informatics Engineering specialitza
 - [FIB-PAR](https://github.com/Vikoey04/FIB-PAR) Paral·lelisme
 
 ### ESPECIALITAT TECNOLOGIES INFORMACIÓ OBLIGATÒRIES
-- Q5 -> [FIB-ASO](https://github.com/Vikoey04/FIB-PAR) Administració de Sistemes Operatius
-- Q5 -> [FIB-PI](https://github.com/Vikoey04/FIB-PAR) Protocols d'Internet
-- Q5 -> [FIB-TXC](https://github.com/Vikoey04/FIB-PAR) Tecnologies de Xarxes de Computadors
+- Q5 -> [FIB-ASO](https://github.com/Vikoey04/FIB-ASO) Administració de Sistemes Operatius
+- Q5 -> [FIB-PI](https://github.com/Vikoey04/FIB-PI) Protocols d'Internet
+- Q5 -> [FIB-TXC](https://github.com/Vikoey04/FIB-TXC) Tecnologies de Xarxes de Computadors
 ---------------------------------------------------------
 - Q6 -> FIB-PTI Projectes de Tecnologies de la Informació
 - Q6 -> FIB-SI Seguretat Informàtica
 - Q6 -> FIB-SOA Sistemes Operatius Avançats
 
 ### ESPECIALITAT TECNOLOGIES INFORMACIÓ COMPLEMENTÀRIES
-- Q5 [FIB-AD](https://github.com/Vikoey04/FIB-PAR) Aplicacions Distribuïdes
+- Q5 [FIB-AD](https://github.com/Vikoey04/FIB-AD) Aplicacions Distribuïdes
 
 ### OPTATIVES
 Pròximament
