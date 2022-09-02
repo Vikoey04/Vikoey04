@@ -41,7 +41,6 @@ I'm a 3rd year student of Bachelor Degree in Informatics Engineering specialitza
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/Vikoey04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/jordisoleym/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='50'>](https://twitter.com/Vikoey04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='50'>](https://www.youtube.com/channel/Vikoey04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='50'>](https://www.behance.net/vikoeyviko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='50'>](https://discord.gg/y98ac7g)  
 
 ## Repositoris Assignatures Enginyeria Informàtica FIB
-
 #### Q1 - Quadrimestre 1
 - [FIB-PRO1](https://github.com/Vikoey04/FIB-PRO1) Programació 1
 
@@ -58,3 +57,22 @@ I'm a 3rd year student of Bachelor Degree in Informatics Engineering specialitza
 - [FIB-IDI](https://github.com/Vikoey04/FIB-IDI) Interacció i Disseny d'Interfícies
 - [FIB-IES](https://github.com/Vikoey04/FIB-IES) Introducció a la Enginyeria del Software
 - [FIB-XC](https://github.com/Vikoey04/FIB-XC) Xarxes de Computadors
+
+#### Q5 i Q6 - Quadrimestre 5 i 6
+- [FIB-PROP](https://github.com/Vikoey04/FIB-PROP) Projectes de Programació
+- [FIB-PAR](https://github.com/Vikoey04/FIB-PAR) Paral·lelisme
+
+### ESPECIALITAT TECNOLOGIES INFORMACIÓ OBLIGATÒRIES
+- Q5 -> [FIB-ASO](https://github.com/Vikoey04/FIB-PAR) Administració de Sistemes Operatius
+- Q5 -> [FIB-PI](https://github.com/Vikoey04/FIB-PAR) Protocols d'Internet
+- Q5 -> [FIB-TXC](https://github.com/Vikoey04/FIB-PAR) Tecnologies de Xarxes de Computadors
+---------------------------------------------------------
+- Q6 -> FIB-PTI Projectes de Tecnologies de la Informació
+- Q6 -> FIB-SI Seguretat Informàtica
+- Q6 -> FIB-SOA Sistemes Operatius Avançats
+
+### ESPECIALITAT TECNOLOGIES INFORMACIÓ COMPLEMENTÀRIES
+- Q5 [FIB-AD](https://github.com/Vikoey04/FIB-PAR) Aplicacions Distribuïdes
+
+### OPTATIVES
+Pròximament
