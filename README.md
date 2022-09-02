@@ -9,7 +9,7 @@
 
 # Hi there, I'm Jordi Soley - aka VIKO/VIKOEY 👋
 
-I am studying Computer Engineering (Information Technology Specialization) at the FIB of the Universitat Politècnica de Catalunya in Barcelona 
+I'm a 3rd year student of Bachelor Degree in Informatics Engineering specialitzation in Information Technologies at the FIB of the Universitat Politècnica de Catalunya in Barcelona 
 
 ### Languages:  
 
