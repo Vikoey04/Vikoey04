@@ -44,7 +44,7 @@ I'm a 3rd year student of Bachelor Degree in Informatics Engineering specialitza
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/Vikoey04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/jordisoleym/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='50'>](https://twitter.com/Vikoey04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='50'>](https://www.youtube.com/channel/Vikoey04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='50'>](https://www.behance.net/vikoeyviko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='50'>](https://discord.gg/y98ac7g)  
 
-## Repositoris Assignatures Enginyeria Informàtica FIB
+## Repositoris Assignatures Enginyeria Informàtica FIB 📆 2020-2024 📆
 #### Q1 - Quadrimestre 1
 - [FIB-PRO1](https://github.com/Vikoey04/FIB-PRO1) Programació 1
 
