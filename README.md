@@ -73,7 +73,7 @@ I'm a 3rd year student of Bachelor Degree in Informatics Engineering specialitza
 ---------------------------------------------------------
 - Q6 -> [FIB-PTI](https://github.com/Vikoey04/FIB-PTI) Projectes de Tecnologies de la Informació
 - Q6 -> FIB-SI Seguretat Informàtica
-- Q6 -> FIB-SOA Sistemes Operatius Avançats
+- Q6 -> [FIB-SOA](https://github.com/Vikoey04/FIB-SOA) Sistemes Operatius Avançats
 
 ### ESPECIALITAT TECNOLOGIES INFORMACIÓ COMPLEMENTÀRIES
 - Q5 [FIB-AD](https://github.com/Vikoey04/FIB-AD) Aplicacions Distribuïdes
