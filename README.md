@@ -71,7 +71,8 @@ I'm a 3rd year student of Bachelor Degree in Informatics Engineering specialitza
 - Q5 -> [FIB-PI](https://github.com/Vikoey04/FIB-PI) Protocols d'Internet
 - Q5 -> [FIB-TXC](https://github.com/Vikoey04/FIB-TXC) Tecnologies de Xarxes de Computadors
 ---------------------------------------------------------
-- Q6 -> [FIB-PTI](https://github.com/Vikoey04/FIB-PTI) Projectes de Tecnologies de la Informació
+- Q6 -> [FIB-PTI](https://github.com/Vikoey04/FIB-PTI) Projecte de Tecnologies de la Informació (Pràctiques)
+- Q6 -> [FIB-PTIProject](https://github.com/Vikoey04/FIB-PTIProject) PROJECTE PTI
 - Q6 -> FIB-SI Seguretat Informàtica
 - Q6 -> [FIB-SOA](https://github.com/Vikoey04/FIB-SOA) Sistemes Operatius Avançats
 
