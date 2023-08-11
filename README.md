@@ -7,9 +7,7 @@
                             /____/                                                     
 ```
 
-# Hi there, I'm Jordi 👋
-
-I'm a 4th year student of Bachelor Degree in Informatics Engineering specialitzation in Information Technologies at the FIB of the Universitat Politècnica de Catalunya in Barcelona 
+# Vikoey04 
 
 ### Languages:  
 
