@@ -52,7 +52,7 @@
 - vikoey04@gmail.com
 - vikoey@protonmail.com
 
-## Repositoris Assignatures Enginyeria Informàtica FIB 📆 2020-2024 📆
+## Repos Computer Engineering (IT) FIB 📆 2020-2024 📆
 #### Q1 - Quadrimestre 1
 - [FIB-PRO1](https://github.com/Vikoey04/FIB-PRO1) Programació 1
 
