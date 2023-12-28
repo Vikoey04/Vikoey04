@@ -49,8 +49,8 @@
 
 
 ### Contact:
+- vikoey@proton.me
 - vikoey04@gmail.com
-- vikoey@protonmail.com
 
 ## Repos Computer Engineering (IT) FIB 📆 2020-2024 📆
 #### Q1 - Quadrimestre 1
